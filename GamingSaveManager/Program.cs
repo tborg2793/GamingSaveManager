@@ -17,7 +17,7 @@ namespace GamingSaveManager
             //Console.Write(game1.gameName);
             StartProcess();
             Watch(game1);
-            Console.ReadLine();
+            //Console.ReadLine();
         }
 
         public static void OnProcessExited(object sender, EventArgs e)
