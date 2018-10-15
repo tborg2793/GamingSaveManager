@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tb\\source\\repos\\GamingSaveManager\\GamingSaveManager\\GamingSaveManager.csproj",
+      "projectUniqueName": "C:\\Thomas\\Projects\\GamingSaveManager\\GamingSaveManager\\GamingSaveManager.csproj",
       "projectName": "GamingSaveManager",
-      "projectPath": "C:\\Users\\tb\\source\\repos\\GamingSaveManager\\GamingSaveManager\\GamingSaveManager.csproj",
+      "projectPath": "C:\\Thomas\\Projects\\GamingSaveManager\\GamingSaveManager\\GamingSaveManager.csproj",
       "packagesPath": "C:\\Users\\tb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tb\\source\\repos\\GamingSaveManager\\GamingSaveManager\\obj\\",
+      "outputPath": "C:\\Thomas\\Projects\\GamingSaveManager\\GamingSaveManager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

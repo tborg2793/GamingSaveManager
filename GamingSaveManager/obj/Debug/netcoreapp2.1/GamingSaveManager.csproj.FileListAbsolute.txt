@@ -9,3 +9,14 @@ C:\Users\tb\source\repos\GamingSaveManager\GamingSaveManager\obj\Debug\netcoreap
 C:\Users\tb\source\repos\GamingSaveManager\GamingSaveManager\obj\Debug\netcoreapp2.1\GamingSaveManager.AssemblyInfo.cs
 C:\Users\tb\source\repos\GamingSaveManager\GamingSaveManager\obj\Debug\netcoreapp2.1\GamingSaveManager.dll
 C:\Users\tb\source\repos\GamingSaveManager\GamingSaveManager\obj\Debug\netcoreapp2.1\GamingSaveManager.pdb
+C:\Thomas\Projects\GamingSaveManager\GamingSaveManager\bin\Debug\netcoreapp2.1\GamingSaveManager.deps.json
+C:\Thomas\Projects\GamingSaveManager\GamingSaveManager\bin\Debug\netcoreapp2.1\GamingSaveManager.runtimeconfig.json
+C:\Thomas\Projects\GamingSaveManager\GamingSaveManager\bin\Debug\netcoreapp2.1\GamingSaveManager.runtimeconfig.dev.json
+C:\Thomas\Projects\GamingSaveManager\GamingSaveManager\bin\Debug\netcoreapp2.1\GamingSaveManager.dll
+C:\Thomas\Projects\GamingSaveManager\GamingSaveManager\bin\Debug\netcoreapp2.1\GamingSaveManager.pdb
+C:\Thomas\Projects\GamingSaveManager\GamingSaveManager\obj\Debug\netcoreapp2.1\GamingSaveManager.csprojAssemblyReference.cache
+C:\Thomas\Projects\GamingSaveManager\GamingSaveManager\obj\Debug\netcoreapp2.1\GamingSaveManager.csproj.CoreCompileInputs.cache
+C:\Thomas\Projects\GamingSaveManager\GamingSaveManager\obj\Debug\netcoreapp2.1\GamingSaveManager.AssemblyInfoInputs.cache
+C:\Thomas\Projects\GamingSaveManager\GamingSaveManager\obj\Debug\netcoreapp2.1\GamingSaveManager.AssemblyInfo.cs
+C:\Thomas\Projects\GamingSaveManager\GamingSaveManager\obj\Debug\netcoreapp2.1\GamingSaveManager.dll
+C:\Thomas\Projects\GamingSaveManager\GamingSaveManager\obj\Debug\netcoreapp2.1\GamingSaveManager.pdb
